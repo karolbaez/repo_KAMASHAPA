@@ -1,7 +1,7 @@
 # repo_KAMASHAPA
 
 ##Integrante
--Karol Tatiana Baez - Lider
+-Karol Tatiana Baez - Lider 1
 -Paula Camila Martinez - Diseñadora
 -Heider Alonso Nitola- Diseñador
 -Manuel Alejandro Vargas - Constructor
