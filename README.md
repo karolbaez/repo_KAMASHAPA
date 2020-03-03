@@ -16,7 +16,7 @@ bnhbghgh
 _tarea del diseñador_
 #### Prototipo 
 - Breadboard 
-![alt text](https://github.com/karolbaez/repo_KAMASHAPA/blob/master/jajajjaja.png)
+![Comentario](https://github.com/karolbaez/repo_KAMASHAPA/blob/master/jajajjaja.png)
 - Modelo 3D (_tarea del diseñador_)
 #### Planos de construcción
 _tarea del diseñador_
