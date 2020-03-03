@@ -13,7 +13,7 @@ bnhbghgh
 
 ### Diseño
 #### Esquemas eléctricos o electrónicos
-_tarea del diseñador_
+![PCB](https://github.com/karolbaez/repo_KAMASHAPA/blob/master/ju.png)
 #### Prototipo 
 - Breadboard 
 ![Comentario](https://github.com/karolbaez/repo_KAMASHAPA/blob/master/jajajjaja.png)
